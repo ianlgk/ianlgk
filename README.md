@@ -18,6 +18,9 @@
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" height="30px" /></code>
   <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/vuejs.png" alt="VueJS" height="30px" /></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="30px" /></code>
+  <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/C.png" alt="C" height="30px" /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="30px" /></code>
+  <code><img src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/image.png" alt="Java" height="30px" /></code>
 </p>
 
 ## 🖥️ DevOps
