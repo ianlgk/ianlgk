@@ -1,25 +1,25 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3 align="left">🥷 Sobre mim </h3>
-<hr />
 <p align="left"> 
-  Olá 👋! Me chamo Ian e sou um <strong>Desenvolvedor FullStack</strong> 🚀.<br>
-  Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto - UFOP.<br>
-  Além disso, atuo como Desenvolvedor Java Júnior desde outubro de 2021 na empresa Saúde Agora.
+  Hello, there! 👋<br>My name is Ian and I'm a <strong>Fullstack Developer</strong> 🚀.<br>
+  Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br>
+  In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
 </p>
+<hr />
 
 <h3 align="left">👨‍💻 Skills </h3>
-<hr />
 <p align="left">
   Coloque as linguagens que você desenvolve
 </p>
 
-<h3 align="left">💼 Ferramentas de Desenvolvimento </h3>
 <hr />
+<h3 align="left">💼 Ferramentas de Desenvolvimento </h3>
 <p align="left">
   Coloque aqui suas ferramentas de trabalho
 </p>
 
+<hr />
 <p align="left">
   💌 Para entrar em contato comigo, por favor, utilize alguma das opções abaixo ⤵️
 </p>
