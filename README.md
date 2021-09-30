@@ -15,7 +15,7 @@
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="30px" /></code>
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="Bootstrap" height="30px" /></code>
   <code><img src="https://www.iconninja.com/files/808/270/552/jquery-javascript-icon.svg" alt="jQuery" height="30px" /></code>
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" height="30px" /></code>
+  <code><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" height="30px" /></code>
   <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/vuejs.png" alt="VueJS" height="30px" /></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="30px" /></code>
 </p>
