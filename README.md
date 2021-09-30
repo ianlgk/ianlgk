@@ -28,7 +28,7 @@
 
 ## 💼 Development Tools
 <p align="left">
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px" /><code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px" /></code>
   <code><img src="https://static.figma.com/app/icon/1/icon-128.png" alt="Figma" width="30px" /></code>
 </p>
 
