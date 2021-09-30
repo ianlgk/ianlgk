@@ -9,7 +9,14 @@
 
 ## 👨‍💻 Skills
 <p align="left">
-
+  <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" alt="HTML5" height="30px" /></code>
+  <code><img src="https://w7.pngwing.com/pngs/604/592/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail.png" alt="CSS3" height="30px" /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30px" /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="30px" /></code>
+  <code><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="Bootstrap" height="30px" /></code>
+  <code><img src="https://www.iconninja.com/files/808/270/552/jquery-javascript-icon.svg" alt="jQuery" height="30px" /></code>
+  <code><img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" height="30px" /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="30px" /></code>
 </p>
 
 ## 🖥️ DevOps
@@ -21,7 +28,8 @@
 
 ## 💼 Development Tools
 <p align="left">
-  
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px" /><code>
+  <code><img src="https://static.figma.com/app/icon/1/icon-128.png" alt="Figma" width="30px" /></code>
 </p>
 
 ## 💌 Get in touch with me
