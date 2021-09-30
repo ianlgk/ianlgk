@@ -14,9 +14,9 @@
 
 ## 🖥️ DevOps
 <p align="left">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="20px" style="margin-right: 5px" />
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20px" style="margin-right: 5px" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3628793-3030155.png" alt="GitLab" width="20px" style="margin-right: 5px" />
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30px" style="margin-right: 5px" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30px" style="margin-right: 5px" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3628793-3030155.png" alt="GitLab" width="30px" style="margin-right: 5px" />
 </p>
 
 ## 💼 Development Tools
