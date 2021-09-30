@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Skills
 <p align="left">
-  # Web Development
+  <h4>Web Development</h4><br>
     <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" alt="HTML5" height="30px" /></code>
     <code><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS3" height="30px" /></code>
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30px" /></code>
@@ -17,10 +17,10 @@
     <code><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="Bootstrap" height="30px" /></code>
     <code><img src="https://www.iconninja.com/files/808/270/552/jquery-javascript-icon.svg" alt="jQuery" height="30px" /></code>
     <code><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" height="30px" /></code>
-    <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/vuejs.png" alt="VueJS" height="30px" /></code>
-  # Databases
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="30px" /></code>
-  # Programming Languages
+    <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/vuejs.png" alt="VueJS" height="30px" /></code><br>
+  <h4>Databases</h4><br>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="30px" /></code><br>
+  <h4>Programming Languages</h4><br>
     <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/C.png" alt="C" height="30px" /></code>
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="28px" /></code>
     <code><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="30px" /></code>
