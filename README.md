@@ -5,7 +5,7 @@
   Hello, there! 👋<br>My name is Ian and I'm a <strong>Fullstack Developer</strong> 🚀.<br>
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br>
   In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
-</p>
+</p><br><br>
 
 ## 👨‍💻 Skills
 <p align="left">
@@ -24,20 +24,20 @@
     <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/C.png" alt="C" height="30px" /></code>
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="28px" /></code>
     <code><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="30px" /></code>
-</p>
+</p><br><br>
 
 ## 🖥️ DevOps
 <p align="left">
     <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30px" /></code>
     <code><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30px" /></code>
     <code><img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3628793-3030155.png" alt="GitLab" width="30px" /></code>
-</p>
+</p><br><br>
 
 ## 💼 Development Tools
 <p align="left">
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px" /></code>
   <code><img src="https://static.figma.com/app/icon/1/icon-128.png" alt="Figma" width="30px" /></code>
-</p>
+</p><br><br>
 
 ## 💌 Get in touch with me
 <p align="left">
