@@ -9,28 +9,24 @@
 
 <hr />
 
-<h3 align="left">👨‍💻 Skills </h3>
+> <h3 align="left">👨‍💻 Skills </h3>
 <p align="left">
   Coloque as linguagens que você desenvolve
 </p>
 
 <hr />
 
-<h3 align="left">🖥️ DevOps </h3>
+> <h3 align="left">🖥️ DevOps </h3>
 <p align="left">
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 </p>
 
 <hr />
 
 > <h3 align="left">💼 Development Tools </h3>
 <p align="left">
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio" />
+  <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png" alt="Figma" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Photoshop" />
 </p>
 
 <hr />
@@ -51,6 +47,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5533988459751"/></a>
 
   <a href="https://www.instagram.com/ianlgk/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ianlgk/"/></a>
-  [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/ianlgk)
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ianlgk/"/></a>.
 </p>  
