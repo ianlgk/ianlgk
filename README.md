@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-> <h3 align="left">🥷 About me </h3>
+## 🥷 About me
 <p align="left"> 
   Hello, there! 👋<br>My name is Ian and I'm a <strong>Fullstack Developer</strong> 🚀.<br>
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br>
@@ -9,27 +9,27 @@
 
 <hr />
 
-> <h3 align="left">👨‍💻 Skills </h3>
+## 👨‍💻 Skills
 <p align="left">
   
 </p>
 
 <hr />
 
-> <h3 align="left">🖥️ DevOps </h3>
+## 🖥️ DevOps
 <p align="left">
 </p>
 
 <hr />
 
-> <h3 align="left">💼 Development Tools </h3>
+## 💼 Development Tools
 <p align="left">
   
 </p>
 
 <hr />
 
-> <h3 align="left">💌 Get in touch with me!</h3>
+## 💌 Get in touch with me
 <p align="left">
    Please, choose your favorite option ⤵️
 </p>
