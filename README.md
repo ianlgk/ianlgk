@@ -7,27 +7,24 @@
   In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
 </p>
 
-<hr />
-
 ## 👨‍💻 Skills
 <p align="left">
-  
+  *
+  *
+  *
 </p>
-
-<hr />
 
 ## 🖥️ DevOps
 <p align="left">
+  * <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" /> Git
+  * <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" /> GitHub
+  * <img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3628793-3030155.png" alt="GitLab" width="30" /> GitLab
 </p>
-
-<hr />
 
 ## 💼 Development Tools
 <p align="left">
   
 </p>
-
-<hr />
 
 ## 💌 Get in touch with me
 <p align="left">
@@ -45,5 +42,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5533988459751"/></a>
 
   <a href="https://www.instagram.com/ianlgk/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ianlgk/"/></a>.
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ianlgk/"/></a>
 </p>  
