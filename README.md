@@ -10,7 +10,7 @@
 ## 👨‍💻 Skills
 <p align="left">
   <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" alt="HTML5" height="30px" /></code>
-  <code><img src="https://w7.pngwing.com/pngs/604/592/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail.png" alt="CSS3" height="30px" /></code>
+  <code><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS3" height="30px" /></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30px" /></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="30px" /></code>
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="Bootstrap" height="30px" /></code>
@@ -19,7 +19,7 @@
   <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/vuejs.png" alt="VueJS" height="30px" /></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="30px" /></code>
   <code><img src="https://github.com/ianlgk/ianlgk/blob/main/assets/C.png" alt="C" height="30px" /></code>
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="30px" /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="28px" /></code>
   <code><img src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/image.png" alt="Java" height="30px" /></code>
 </p>
 
