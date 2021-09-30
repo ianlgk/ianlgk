@@ -6,6 +6,7 @@
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br>
   In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
 </p>
+
 <hr />
 
 <h3 align="left">👨‍💻 Skills </h3>
@@ -14,12 +15,26 @@
 </p>
 
 <hr />
-> <h3 align="left">💼 Development Tools </h3>
+
+<h3 align="left">🖥️ DevOps </h3>
 <p align="left">
-  Coloque aqui suas ferramentas de trabalho
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 </p>
 
 <hr />
+
+> <h3 align="left">💼 Development Tools </h3>
+<p align="left">
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+</p>
+
+<hr />
+
 > <h3 align="left">💌 Get in touch with me!</h3>
 <p align="left">
    Please, choose your favorite option ⤵️
@@ -37,4 +52,5 @@
 
   <a href="https://www.instagram.com/ianlgk/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ianlgk/"/></a>
+  [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/ianlgk)
 </p>  
