@@ -5,7 +5,8 @@
   Hello, there! 👋<br>My name is Ian and I'm a <strong>Fullstack Developer</strong> 🚀.<br />
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br />
   In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
-</p><br /><br />
+</p>
+<br /><br />
 
 ## 👨‍💻 Skills
 <p align="center">
@@ -15,8 +16,8 @@
   <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br /><br />
 </p>
+<br /><br />
 <p align="center">
   <h4>Frameworks, Platforms and Libraries</h4>
   <br />
