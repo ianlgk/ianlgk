@@ -9,7 +9,6 @@
 
 ## 👨‍💻 Skills
 <p align="left">
-<<<<<<< HEAD
   <h4>Web Development</h4>
     <br>
     <code><img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
