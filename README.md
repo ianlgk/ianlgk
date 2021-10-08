@@ -6,7 +6,7 @@
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br />
   In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
 </p>
-<br /><br />
+<br />
 
 ## 👨‍💻 Skills
 <p align="left">
@@ -33,7 +33,7 @@
   <img height="30" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-<br /><br />
+<br />
 
 ## 🖥️ DevOps
 <p align="left">
@@ -43,7 +43,7 @@
   <img height="30" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </p>
-<br /><br />
+<br />
 
 ## 💼 Development Tools
 <p align="left">
@@ -52,7 +52,7 @@
   <img height="30" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-<br /><br />
+<br />
 
 ## 💌 Get in touch with me
 <p align="left">
