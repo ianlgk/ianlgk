@@ -6,11 +6,11 @@
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br />
   In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
 </p>
-<br />
+<br /><br />
 
 ## 👨‍💻 Skills
 <p align="left">
-  Web Development <br /><br />
+  <br /> Web Development <br /><br />
   <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
