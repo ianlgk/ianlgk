@@ -2,7 +2,7 @@
 
 ## 🥷 About me
 <p align="left"> 
-  Hello, there! 👋<br>My name is Ian and I'm a <strong>Full-stack Developer</strong> 🚀.<br />
+  Hello, there! 👋<br>My name is Ian and I'm a <strong>Full Stack Developer</strong> 🚀.<br />
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br />
   In addition, I have been working as a Junior Java Developer since october 2021 at the company Saúde Agora.
 </p>
