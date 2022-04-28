@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iur"/>
 
-## 🥷 About me
+## 🐱‍👤 About me
 <p align="left"> 
   Hello, there! 👋<br>My name is Ian and I'm a <strong>Full Stack Developer</strong> 🚀.<br />
   Nowadays, I'm studying Information Systems at the Federal University of Ouro Preto - UFOP.<br />
